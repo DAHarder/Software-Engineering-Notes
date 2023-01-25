@@ -14,7 +14,7 @@ if (api_token == 0):
 user_email = input("Enter the user email: ")
 
 # Set the user ID API url
-user_id_url = "https://nr-prod.okta.com/api/v1/users/{}".format(user_email)
+user_id_url = "https://<your okta url>/api/v1/users/{}".format(user_email)
 
 # Set the HTTP headers
 headers = {
@@ -35,7 +35,7 @@ if response.status_code == 200:
     user_id = user_info["id"]
 
     # Set the user factors API url
-    mfa_factors_reset_url = "https://nr-prod.okta.com/api/v1/users/{}/lifecycle/reset_factors".format(user_id)
+    mfa_factors_reset_url = "https://<your okta url>/api/v1/users/{}/lifecycle/reset_factors".format(user_id)
 
     # Send the GET request to get a list of the user's MFA factors
     response = requests.get(mfa_factors_reset_url, headers=headers)
