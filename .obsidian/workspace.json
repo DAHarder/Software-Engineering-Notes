@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "df2a740d842e64ba",
+        "id": "df85bd0fea79d670",
         "type": "tabs",
         "children": [
           {
-            "id": "211085f2f56fe947",
+            "id": "c9fff2d918e9061a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Okta.md",
+                "file": "Operating Systems/Linux/Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3c9743d3179401f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devops/Gradle/Dependency Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ba3a475cbd60af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devops/Gradle/Groovy/Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f938fc91de3aab0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devops/Gradle/Groovy/Syntax & Behavior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44b8cb2a6394c3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devops/Gradle/Syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Okta.md",
+                "file": "Devops/Gradle/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Okta.md",
+                "file": "Devops/Gradle/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Okta.md"
+                "file": "Devops/Gradle/Syntax.md"
               }
             }
           },
@@ -142,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,17 +205,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "211085f2f56fe947",
+  "active": "8bde9b81a54f1cda",
   "lastOpenFiles": [
-    "Supported Teams/Ingest/Edges/Fastly.md",
-    "Supported Teams/Ingest/Edges/CloudFlare.md",
-    "Supported Teams/Ingest/WayFinder.md",
-    "Supported Teams/Ingest/Ingest Readme.md",
-    "Supported Teams/Ingest/Vortex.md",
-    "Supported Teams/CSI/NS1.md",
-    "Supported Teams/CSI/CSI Readme.md",
-    "Media/2021-08-05 High Level Ingest Arch.pdf",
-    "Supported Teams/Ingest/License Keys.md",
-    "Supported Teams/Tools/Tools Readme.md"
+    "Devops/Gradle/Dependency Management.md",
+    "Devops/Gradle/Syntax.md",
+    "Devops/Gradle/Groovy/Syntax & Behavior.md",
+    "Devops/Gradle/Groovy/Properties.md",
+    "Devops/Concepts/CI - CD.md",
+    "Operating Systems/Linux/Networking.md",
+    "Operating Systems/Linux/Services.md",
+    "Operating Systems/Linux/Package Managers.md",
+    "Operating Systems/Linux/Helpful Tools for Terminal.md",
+    "Operating Systems/Linux/SSH.md"
   ]
 }
