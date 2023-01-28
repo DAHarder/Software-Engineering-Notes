@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Leetcode Problems.md",
+                "file": "Learning/Ultimate Learning Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "129f11259b400f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Leetcode Problems.md",
+                "file": "Learning/Ultimate Learning Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Leetcode Problems.md",
+                "file": "Learning/Ultimate Learning Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Leetcode Problems.md"
+                "file": "Learning/Ultimate Learning Plan.md"
               }
             }
           },
@@ -158,15 +170,15 @@
   },
   "active": "ea3572461dccd672",
   "lastOpenFiles": [
+    "Learning/Leetcode Problems.md",
+    "Learning/Ultimate Learning Plan.md",
     "Markdown Cheat Sheet.md",
     "Databases/Normalization.md",
     "Languages/Java/Syntax.md",
     "Languages/Java/File Read & Write.md",
     "Languages/Python/Modules.md",
     "Social/Feedback Model.md",
-    "Learning/Leetcode Problems.md",
     "Tools.md",
-    "Languages/Python/Styling Convention.md",
-    "Languages/Java/Styling Convention.md"
+    "Languages/Python/Styling Convention.md"
   ]
 }
