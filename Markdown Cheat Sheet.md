@@ -203,7 +203,7 @@ Markdown allows you to use backslash escapes to generate literal characters whic
 - [ ] this is an incomplete it
 ```
 
-- [x] this is a complete item 
+- [ ] this is a complete item 
 - [ ] this is an incomplete it
 
 ## Inline HTML
