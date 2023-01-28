@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Java/Console Input.md",
+                "file": "Languages/Python/Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4032743fbca64a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Python/Styling Convention.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Java/Console Input.md",
+                "file": "Languages/Python/Styling Convention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Java/Console Input.md",
+                "file": "Languages/Python/Styling Convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Java/Console Input.md"
+                "file": "Languages/Python/Styling Convention.md"
               }
             }
           },
@@ -193,17 +205,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dac093190d36b502",
+  "active": "4032743fbca64a5b",
   "lastOpenFiles": [
+    "Languages/Java/Styling Convention.md",
+    "Languages/Python/Modules.md",
+    "Languages/Python/Styling Convention.md",
+    "Languages/Java/Console Input.md",
     "Languages/Java/File Read & Write.md",
     "Languages/Java/Syntax.md",
-    "Languages/Python/Modules.md",
     "Databases/Normalization.md",
     "Devops/Concepts/CI - CD.md",
     "Tools/Git/Git Commands Cheatsheet.md",
-    "Markdown Cheat Sheet.md",
-    "Tools/Git/Git Commit Standards.md",
-    "Devops/Gradle/Syntax.md",
-    "Devops/Gradle/Dependency Management.md"
+    "Markdown Cheat Sheet.md"
   ]
 }
