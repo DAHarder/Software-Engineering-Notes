@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df85bd0fea79d670",
+        "id": "70098cb0172db5cb",
         "type": "tabs",
         "children": [
           {
-            "id": "ea3572461dccd672",
+            "id": "55c2e542b6793ec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Ultimate Learning Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "129f11259b400f3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "General Topics/Metric Prefix.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Ultimate Learning Plan.md",
+                "file": "General Topics/Metric Prefix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Ultimate Learning Plan.md",
+                "file": "General Topics/Metric Prefix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Ultimate Learning Plan.md"
+                "file": "General Topics/Metric Prefix.md"
               }
             }
           },
@@ -168,8 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea3572461dccd672",
+  "active": "55c2e542b6793ec9",
   "lastOpenFiles": [
+    "Media/Pasted image 20230308101514.png",
+    "General Topics/Metric Prefix.md",
     "Learning/Leetcode Problems.md",
     "Learning/Ultimate Learning Plan.md",
     "Markdown Cheat Sheet.md",
