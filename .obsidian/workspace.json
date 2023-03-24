@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4796a7bc822a7ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devops/Terraform/Common Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Topics/Metric Prefix.md",
+                "file": "Devops/Terraform/Common Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Topics/Metric Prefix.md",
+                "file": "Devops/Terraform/Common Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Topics/Metric Prefix.md"
+                "file": "Devops/Terraform/Common Commands.md"
               }
             }
           },
@@ -156,10 +169,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55c2e542b6793ec9",
+  "active": "4796a7bc822a7ead",
   "lastOpenFiles": [
-    "Media/Pasted image 20230308101514.png",
     "General Topics/Metric Prefix.md",
+    "Devops/Terraform/Common Commands.md",
+    "Devops/Terraform",
+    "Media/Pasted image 20230308101514.png",
     "Learning/Leetcode Problems.md",
     "Learning/Ultimate Learning Plan.md",
     "Markdown Cheat Sheet.md",
