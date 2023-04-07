@@ -8,31 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55c2e542b6793ec9",
+            "id": "730a857270d61b5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Topics/Metric Prefix.md",
+                "file": "Languages/Java/Build & Packaging.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4796a7bc822a7ead",
+            "id": "cdda69ef7b132daa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops/Terraform/Common Commands.md",
+                "file": "Languages/JavaScript/Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96a5bda502813f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Java/Build & Packaging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e7b79abac365bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Python/Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60e9689336f75a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Python/Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58e362c0d0a1bab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/SQL/Normalization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devops/Terraform/Common Commands.md",
+                "file": "Databases/SQL/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devops/Terraform/Common Commands.md",
+                "file": "Databases/SQL/Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devops/Terraform/Common Commands.md"
+                "file": "Databases/SQL/Normalization.md"
               }
             }
           },
@@ -169,21 +217,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4796a7bc822a7ead",
+  "active": "8bde9b81a54f1cda",
   "lastOpenFiles": [
-    "General Topics/Metric Prefix.md",
+    "Languages/JavaScript/NodeJS/Package Management.md",
+    "Databases/NOSQL",
+    "Databases/SQL",
+    "Languages/Python/Package Management.md",
+    "Tools/Git/Git Commands Cheatsheet.md",
+    "Tools/Git/Git Commit Standards.md",
+    "Languages/Python/Modules.md",
+    "Media/Pasted image 20230405165758.png",
+    "Media/Pasted image 20230405165756.png",
+    "Languages/Python/Syntax.md",
+    "Languages/Python/Styling Convention.md",
+    "Languages/Java/Build & Packaging.md",
+    "Languages/Java/Console Input.md",
+    "Languages/Java/File Read & Write.md",
+    "Languages/Java/Styling Convention.md",
+    "Languages/Java/Syntax.md",
+    "Languages/JavaScript/NodeJS/Syntax.md",
+    "Languages/JavaScript/Syntax.md",
+    "Languages/JavaScript/NodeJS",
+    "Languages/JavaScript",
+    "Devops/Gradle/Syntax.md",
+    "Devops/Gradle/Groovy/Syntax & Behavior.md",
+    "Devops/Gradle/Groovy/Properties.md",
+    "Devops/Gradle/Dependency Management.md",
+    "Markdown Cheat Sheet.md",
     "Devops/Terraform/Common Commands.md",
+    "General Topics/Metric Prefix.md",
     "Devops/Terraform",
     "Media/Pasted image 20230308101514.png",
     "Learning/Leetcode Problems.md",
     "Learning/Ultimate Learning Plan.md",
-    "Markdown Cheat Sheet.md",
-    "Databases/Normalization.md",
-    "Languages/Java/Syntax.md",
-    "Languages/Java/File Read & Write.md",
-    "Languages/Python/Modules.md",
-    "Social/Feedback Model.md",
-    "Tools.md",
-    "Languages/Python/Styling Convention.md"
+    "Databases/SQL/Normalization.md",
+    "Social/Feedback Model.md"
   ]
 }
