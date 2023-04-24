@@ -1,0 +1,4 @@
+# Summary
+MongoDB is a popular document-oriented NoSQL database system that stores data in flexible, JSON-like documents. It is known for its scalability, high performance, and ease of use. MongoDB can handle large amounts of structured, semi-structured, and unstructured data, making it a popular choice for web and mobile applications, real-time analytics, and other use cases where traditional relational databases may not be suitable. MongoDB uses a flexible data model, which allows developers to quickly iterate and modify their database schema as their application evolves. Additionally, MongoDB provides features such as automatic sharding, replication, and full-text search, making it a robust database solution for modern applications.
+
+![[Pasted image 20230407105327.png]]

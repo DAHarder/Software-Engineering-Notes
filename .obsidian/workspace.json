@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c015450192af3484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Git/Git Commit Standards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c8054927f5f8950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/NOSQL/MongoDB/About.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0309f39db44abd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/NOSQL/MongoDB/Common Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/SQL/Normalization.md",
+                "file": "Databases/NOSQL/MongoDB/Common Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/SQL/Normalization.md",
+                "file": "Databases/NOSQL/MongoDB/Common Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/SQL/Normalization.md"
+                "file": "Databases/NOSQL/MongoDB/Common Commands.md"
               }
             }
           },
@@ -217,14 +253,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8bde9b81a54f1cda",
+  "active": "f0309f39db44abd7",
   "lastOpenFiles": [
+    "Databases/NOSQL/MongoDB/About.md",
+    "Databases/NOSQL/MongoDB/Common Commands.md",
+    "Databases/SQL/Normalization.md",
+    "Devops/Cloud/Cloud Providers Comparison.md",
+    "Tools/Git/Git Commit Standards.md",
+    "Devops/Cloud",
+    "Tools/Git/Git Commands Cheatsheet.md",
+    "Media/Pasted image 20230407105327.png",
+    "Databases/NOSQL/MongoDB",
+    "Databases/NOSQL/Untitled",
+    "Databases/SQL/POSTGRES",
+    "Databases/SQL/MYSQL",
     "Languages/JavaScript/NodeJS/Package Management.md",
     "Databases/NOSQL",
     "Databases/SQL",
     "Languages/Python/Package Management.md",
-    "Tools/Git/Git Commands Cheatsheet.md",
-    "Tools/Git/Git Commit Standards.md",
     "Languages/Python/Modules.md",
     "Media/Pasted image 20230405165758.png",
     "Media/Pasted image 20230405165756.png",
@@ -248,9 +294,6 @@
     "General Topics/Metric Prefix.md",
     "Devops/Terraform",
     "Media/Pasted image 20230308101514.png",
-    "Learning/Leetcode Problems.md",
-    "Learning/Ultimate Learning Plan.md",
-    "Databases/SQL/Normalization.md",
-    "Social/Feedback Model.md"
+    "Learning/Leetcode Problems.md"
   ]
 }
