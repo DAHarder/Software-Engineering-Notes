@@ -13,110 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Java/Build & Packaging.md",
+                "file": "Devops/Docker/Common Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cdda69ef7b132daa",
+            "id": "838d91e7ef67cea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/JavaScript/Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96a5bda502813f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Java/Build & Packaging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e7b79abac365bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Python/Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60e9689336f75a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Python/Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58e362c0d0a1bab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/SQL/Normalization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c015450192af3484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Git/Git Commit Standards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c8054927f5f8950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/NOSQL/MongoDB/About.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0309f39db44abd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/NOSQL/MongoDB/Common Commands.md",
+                "file": "Languages/Python/CheatSheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,12 +77,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5059b884638345cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "right": {
     "id": "b88ca00dd4c89547",
@@ -182,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/NOSQL/MongoDB/Common Commands.md",
+                "file": "Languages/Python/CheatSheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/NOSQL/MongoDB/Common Commands.md",
+                "file": "Languages/Python/CheatSheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/NOSQL/MongoDB/Common Commands.md"
+                "file": "Languages/Python/CheatSheet.md"
               }
             }
           },
@@ -253,10 +177,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0309f39db44abd7",
+  "active": "838d91e7ef67cea0",
   "lastOpenFiles": [
-    "Databases/NOSQL/MongoDB/About.md",
+    "web/covid_cases.png.md",
+    "Languages/Python/CheatSheet.md",
+    "web",
+    "Languages/Python/Syntax.md",
+    "Operating Systems/Linux/Common Commands.md",
+    "Operating Systems/Linux/SSH.md",
+    "Operating Systems/Linux/Services.md",
+    "Operating Systems/Linux/Package Managers.md",
+    "Operating Systems/Linux/Helpful Tools for Terminal.md",
+    "Devops/Docker/Common Commands.md",
+    "Languages/Data Representation Languages.md",
+    "Media/Pasted image 20230531160252.png",
+    "Languages/Configuration Languages/YAML.md",
+    "Languages/Configuration Languages/JSON.md",
+    "Languages/Configuration Languages/XML.md",
+    "Languages/Java/Build & Packaging.md",
+    "Languages/Configuration Languages",
+    "Devops/Security/PKI (Public Key Infrastructure)/About.md",
+    "Media/Pasted image 20230424170935.png",
     "Databases/NOSQL/MongoDB/Common Commands.md",
+    "Devops/Security/PKI (Public Key Infrastructure)",
+    "Devops/Security",
+    "Databases/NOSQL/MongoDB/About.md",
     "Databases/SQL/Normalization.md",
     "Devops/Cloud/Cloud Providers Comparison.md",
     "Tools/Git/Git Commit Standards.md",
@@ -269,31 +214,11 @@
     "Databases/SQL/MYSQL",
     "Languages/JavaScript/NodeJS/Package Management.md",
     "Databases/NOSQL",
-    "Databases/SQL",
     "Languages/Python/Package Management.md",
     "Languages/Python/Modules.md",
     "Media/Pasted image 20230405165758.png",
     "Media/Pasted image 20230405165756.png",
-    "Languages/Python/Syntax.md",
     "Languages/Python/Styling Convention.md",
-    "Languages/Java/Build & Packaging.md",
-    "Languages/Java/Console Input.md",
-    "Languages/Java/File Read & Write.md",
-    "Languages/Java/Styling Convention.md",
-    "Languages/Java/Syntax.md",
-    "Languages/JavaScript/NodeJS/Syntax.md",
-    "Languages/JavaScript/Syntax.md",
-    "Languages/JavaScript/NodeJS",
-    "Languages/JavaScript",
-    "Devops/Gradle/Syntax.md",
-    "Devops/Gradle/Groovy/Syntax & Behavior.md",
-    "Devops/Gradle/Groovy/Properties.md",
-    "Devops/Gradle/Dependency Management.md",
-    "Markdown Cheat Sheet.md",
-    "Devops/Terraform/Common Commands.md",
-    "General Topics/Metric Prefix.md",
-    "Devops/Terraform",
-    "Media/Pasted image 20230308101514.png",
-    "Learning/Leetcode Problems.md"
+    "Media/Pasted image 20230308101514.png"
   ]
 }
