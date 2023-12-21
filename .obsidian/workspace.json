@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Python/CheatSheet.md",
+                "file": "General Topics/12 Factor App.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/CheatSheet.md",
+                "file": "General Topics/12 Factor App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Python/CheatSheet.md",
+                "file": "General Topics/12 Factor App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Python/CheatSheet.md"
+                "file": "General Topics/12 Factor App.md"
               }
             }
           },
@@ -156,6 +156,16 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "68d1c05831785a45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -179,8 +189,13 @@
   },
   "active": "838d91e7ef67cea0",
   "lastOpenFiles": [
-    "web/covid_cases.png.md",
+    "Tools/Git/Git Commit Standards.md",
+    "General Topics/12 Factor App.md",
+    "Untitled.md",
+    "Tools/Git/Git Commands Cheatsheet.md",
+    "Languages/JavaScript/NodeJS/Package Management.md",
     "Languages/Python/CheatSheet.md",
+    "web/covid_cases.png.md",
     "web",
     "Languages/Python/Syntax.md",
     "Operating Systems/Linux/Common Commands.md",
@@ -204,21 +219,17 @@
     "Databases/NOSQL/MongoDB/About.md",
     "Databases/SQL/Normalization.md",
     "Devops/Cloud/Cloud Providers Comparison.md",
-    "Tools/Git/Git Commit Standards.md",
     "Devops/Cloud",
-    "Tools/Git/Git Commands Cheatsheet.md",
     "Media/Pasted image 20230407105327.png",
     "Databases/NOSQL/MongoDB",
     "Databases/NOSQL/Untitled",
     "Databases/SQL/POSTGRES",
     "Databases/SQL/MYSQL",
-    "Languages/JavaScript/NodeJS/Package Management.md",
     "Databases/NOSQL",
     "Languages/Python/Package Management.md",
     "Languages/Python/Modules.md",
     "Media/Pasted image 20230405165758.png",
     "Media/Pasted image 20230405165756.png",
-    "Languages/Python/Styling Convention.md",
     "Media/Pasted image 20230308101514.png"
   ]
 }
